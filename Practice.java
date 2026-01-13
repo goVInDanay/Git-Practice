@@ -6,4 +6,8 @@ public class Practice{
     public static void calculate(int a, int b){
         System.out.println(a * b);
     }
+
+    public static void calculateSum(int a, int b){
+        System.out.println(a + b);
+    }
 }
