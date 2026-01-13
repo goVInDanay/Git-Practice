@@ -6,7 +6,10 @@ public class Calculator {
         System.out.println("Addition");
         return a + b;
     }
-    
+    public static int multiplication(int a, int b){
+        System.out.println("Multiplication");
+        return a * b;
+    }
     public static int subtraction(int a, int b){
         System.out.println("Subtraction");
         return a - b;
