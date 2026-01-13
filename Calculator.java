@@ -3,8 +3,8 @@ public class Calculator {
         System.out.println("Hello world");
     }
 
-    public static int addition(int a, int b){
-        System.out.println("Addition");
-        return a + b;
+    public static int multiplication(int a, int b){
+        System.out.println("Multiplication");
+        return a * b;
     }
 }
