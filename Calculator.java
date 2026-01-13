@@ -5,6 +5,7 @@ public class Calculator {
 
     public static int addition(int a, int b){
         System.out.println("Addition");
+        System.out.println("Done");
         return a + b;
     }
 }
